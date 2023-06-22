@@ -21,7 +21,7 @@ Apache netbeans: https://netbeans.apache.org/download/index.html
 
 4. Ejecuta el archivo de nombre "Main.java"
    
-5. En caso de error presione "Run proyect", posteriormente Corra el Archivo antes mencionado
+5. En caso de error presione "Run proyect", posteriormente corra el Archivo "Main"
 
 
 
