@@ -7,6 +7,8 @@ Java sdk: https://www.oracle.com/pe/java/technologies/downloads/
 
 Apache netbeans: https://netbeans.apache.org/download/index.html
 
+Apache Maven: https://maven.apache.org/download.cgi
+
 ## Requisitos previos
 
 - Java Development Kit (JDK) 8 o superior instalado en tu sistema.
